@@ -1,0 +1,35 @@
+.header {
+    background-color: mediumseagreen;
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+.aboutMe {
+    background-color: white;
+    font-family: sans-serif;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+}
+
+.image {
+    text-align: center;
+}
+
+h2 {
+    color: mediumseagreen;
+}
+
+.footer {
+    background-color: rgb(47, 47, 47);
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    padding: 20px;
+}
